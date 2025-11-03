@@ -1,0 +1,230 @@
+{
+  "0": {
+    "solution": "DANGER! Do NOT use outlet. Unplug everything. Turn off breaker. Call electrician immediately.",
+    "estimated_time": "2-4 hours (emergency - professional required)",
+    "diy_possible": false,
+    "tools_needed": [
+      "Professional help required - DO NOT ATTEMPT DIY"
+    ],
+    "steps": [
+      "Do NOT use that outlet/switch",
+      "Unplug everything nearby immediately",
+      "Turn off the circuit breaker if you know which one",
+      "Call campus security if smoke/fire",
+      "Submit emergency maintenance request"
+    ],
+    "default_priority": "high",
+    "category": "electrical"
+  },
+  "1": {
+    "solution": "Check flapper, adjust water level, try plunger if clogged. Check chain connection.",
+    "estimated_time": "45 minutes",
+    "diy_possible": true,
+    "tools_needed": [
+      "Plunger",
+      "Screwdriver"
+    ],
+    "steps": [
+      "Is it clogged? Try a plunger first",
+      "Not flushing? Check if the chain is connected inside the tank",
+      "Running constantly? The flapper might need adjustment",
+      "Check water level in tank"
+    ],
+    "default_priority": "medium",
+    "category": "plumbing"
+  },
+  "2": {
+    "solution": "Check thermostat settings (68-72°F). Ensure vents not blocked. Try reset.",
+    "estimated_time": "1 hour",
+    "diy_possible": true,
+    "tools_needed": [],
+    "steps": [
+      "Check thermostat settings (should be 68-72°F)",
+      "Ensure vents aren't blocked by furniture",
+      "Check if the unit is actually running",
+      "Try resetting the thermostat",
+      "Wait 15 minutes after adjustments"
+    ],
+    "default_priority": "high",
+    "category": "hvac"
+  },
+  "3": {
+    "solution": "Check for obstructions. Lubricate hinges. Report lock/security issues immediately.",
+    "estimated_time": "2-4 hours (lock issues are priority)",
+    "diy_possible": false,
+    "tools_needed": [],
+    "steps": [
+      "Check for visible obstructions",
+      "Do NOT force locks or windows",
+      "Report security issues (broken locks) immediately",
+      "Take photos of damage",
+      "Note if room security is compromised"
+    ],
+    "default_priority": "medium",
+    "category": "other"
+  },
+  "4": {
+    "solution": "Report mattress issues for replacement. Check bed frame for loose bolts.",
+    "estimated_time": "1-3 days (replacement)",
+    "diy_possible": false,
+    "tools_needed": [],
+    "steps": [
+      "Document issue with photos",
+      "Check if bed frame bolts need tightening",
+      "Submit maintenance request for mattress replacement",
+      "Request temporary sleeping arrangement if urgent",
+      "Note any health/comfort concerns"
+    ],
+    "default_priority": "medium",
+    "category": "furniture"
+  },
+  "5": {
+    "solution": "Replace bulb, check circuit breaker, inspect fixture. Try different bulb first.",
+    "estimated_time": "15 minutes",
+    "diy_possible": true,
+    "tools_needed": [
+      "Light bulbs",
+      "Ladder"
+    ],
+    "steps": [
+      "Check if the light bulb needs replacing",
+      "Test other lights in the same room",
+      "Check your circuit breaker panel",
+      "Try replacing with known working bulb"
+    ],
+    "default_priority": "low",
+    "category": "electrical"
+  },
+  "6": {
+    "solution": "Check thermostat settings (68-72°F). Ensure vents not blocked. Try reset.",
+    "estimated_time": "1 hour",
+    "diy_possible": true,
+    "tools_needed": [],
+    "steps": [
+      "Check thermostat settings (should be 68-72°F)",
+      "Ensure vents aren't blocked by furniture",
+      "Check if the unit is actually running",
+      "Try resetting the thermostat",
+      "Wait 15 minutes after adjustments"
+    ],
+    "default_priority": "high",
+    "category": "hvac"
+  },
+  "7": {
+    "solution": "Check flapper, adjust water level, try plunger if clogged. Check chain connection.",
+    "estimated_time": "45 minutes",
+    "diy_possible": true,
+    "tools_needed": [
+      "Plunger",
+      "Screwdriver"
+    ],
+    "steps": [
+      "Is it clogged? Try a plunger first",
+      "Not flushing? Check if the chain is connected inside the tank",
+      "Running constantly? The flapper might need adjustment",
+      "Check water level in tank"
+    ],
+    "default_priority": "medium",
+    "category": "plumbing"
+  },
+  "8": {
+    "solution": "Check circuit breaker panel. Reset tripped breakers. If problem persists, call electrician.",
+    "estimated_time": "1-2 hours (professional may be needed)",
+    "diy_possible": false,
+    "tools_needed": [],
+    "steps": [
+      "Locate circuit breaker panel",
+      "Look for tripped breakers (switch in middle position)",
+      "Turn breaker fully OFF then back ON",
+      "If it trips again immediately, call electrician",
+      "Do not force breakers or touch wires"
+    ],
+    "default_priority": "high",
+    "category": "electrical"
+  },
+  "9": {
+    "solution": "Replace bulb, check circuit breaker, inspect fixture. Try different bulb first.",
+    "estimated_time": "15 minutes",
+    "diy_possible": true,
+    "tools_needed": [
+      "Light bulbs",
+      "Ladder"
+    ],
+    "steps": [
+      "Check if the light bulb needs replacing",
+      "Test other lights in the same room",
+      "Check your circuit breaker panel",
+      "Try replacing with known working bulb"
+    ],
+    "default_priority": "low",
+    "category": "electrical"
+  },
+  "10": {
+    "solution": "Check for obstructions. Lubricate hinges. Report lock/security issues immediately.",
+    "estimated_time": "2-4 hours (lock issues are priority)",
+    "diy_possible": false,
+    "tools_needed": [],
+    "steps": [
+      "Check for visible obstructions",
+      "Do NOT force locks or windows",
+      "Report security issues (broken locks) immediately",
+      "Take photos of damage",
+      "Note if room security is compromised"
+    ],
+    "default_priority": "medium",
+    "category": "other"
+  },
+  "11": {
+    "solution": "Check drain for clogs, try plunger, check shut-off valve. Pour hot water down drain.",
+    "estimated_time": "30 minutes",
+    "diy_possible": true,
+    "tools_needed": [
+      "Plunger",
+      "Wrench",
+      "Bucket"
+    ],
+    "steps": [
+      "Check if there's a visible clog you can remove",
+      "Try using a plunger",
+      "Pour hot water down the drain",
+      "Check if the shut-off valve is fully open",
+      "If problem persists, submit maintenance request"
+    ],
+    "default_priority": "medium",
+    "category": "plumbing"
+  },
+  "12": {
+    "solution": "DANGER! Do NOT use outlet. Unplug everything. Turn off breaker. Call electrician immediately.",
+    "estimated_time": "2-4 hours (emergency - professional required)",
+    "diy_possible": false,
+    "tools_needed": [
+      "Professional help required - DO NOT ATTEMPT DIY"
+    ],
+    "steps": [
+      "Do NOT use that outlet/switch",
+      "Unplug everything nearby immediately",
+      "Turn off the circuit breaker if you know which one",
+      "Call campus security if smoke/fire",
+      "Submit emergency maintenance request"
+    ],
+    "default_priority": "high",
+    "category": "electrical"
+  },
+  "13": {
+    "solution": "Tighten screws if loose. Report broken furniture for repair/replacement.",
+    "estimated_time": "24-48 hours (maintenance)",
+    "diy_possible": true,
+    "tools_needed": [
+      "Screwdriver (if you have one)"
+    ],
+    "steps": [
+      "Check for loose screws and tighten if possible",
+      "Take photos of damage",
+      "Remove any sharp or dangerous parts",
+      "Submit maintenance request with photos",
+      "Note if furniture is unusable"
+    ],
+    "default_priority": "low",
+    "category": "furniture"
+  }
+}

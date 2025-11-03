@@ -1,0 +1,20 @@
+{
+  "n_samples": 140,
+  "n_clusters": 14,
+  "embedding_dim": 384,
+  "model": "all-MiniLM-L6-v2",
+  "clustering": "AgglomerativeClustering",
+  "categories": [
+    "plumbing",
+    "electrical",
+    "hvac",
+    "internet",
+    "furniture",
+    "other"
+  ],
+  "priorities": [
+    "low",
+    "medium",
+    "high"
+  ]
+}

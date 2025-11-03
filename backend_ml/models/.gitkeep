@@ -1,0 +1,8 @@
+# Папка для хранения обученных ML моделей
+# 
+# Поместите сюда:
+# - embeddings.npy
+# - clusters.npy  
+# - cluster_solutions.json
+# - metadata.json
+
